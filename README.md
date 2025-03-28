@@ -1,0 +1,2 @@
+# Graphical-simulator-for-Resource-Allocation-Graphs-RAG-
+The Graphical Simulator for Resource Allocation Graphs (RAG) is a software application designed to visually simulate and analyze resource allocation scenarios in a computer system. It helps users understand and detect deadlocks, resource contention, and inefficient resource utilization using a graphical representation of processes and resources.
