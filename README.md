@@ -4,7 +4,7 @@ This project implements a Resource Allocation Graph (RAG) to simulate and analyz
 
 The core objective of the project is to visualize the dynamic behavior of process-resource interactions and use graph-based algorithms to detect whether a deadlock situation may occur or is already present.
 
-🎯 Key Features:
+🎯 Key Features: 
 🔄 Dynamic Graph Construction: Allows users to create and modify processes and resource nodes dynamically.
 
 🔗 Request & Allocation Edges: Simulates real-time request and allocation scenarios.
