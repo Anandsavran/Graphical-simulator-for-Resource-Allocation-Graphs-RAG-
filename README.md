@@ -12,7 +12,7 @@ The core objective of the project is to visualize the dynamic behavior of proces
 ❌ Deadlock Detection: Implements cycle detection in the RAG to identify deadlocks.
 
 📊 Visualization: Provides a clear, graphical view of the system state (using tools like NetworkX + Matplotlib in Python, or Java GUI).
-
+ 
 🧠 Safe/Unsafe State Analysis: Differentiates between safe and unsafe states based on the current allocation.
 
 🧱 Tools & Technologies:
