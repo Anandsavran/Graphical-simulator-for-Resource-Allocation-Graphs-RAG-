@@ -20,7 +20,7 @@ Programming Language: Python / Java / C++
 
 Libraries (Python): NetworkX, Matplotlib, Tkinter or PyQt for GUI
 
-Concepts Used: Graph Theory, Deadlock Detection, OS Resource Management
+Concepts Used: Graph Theory, Deadlock Detection, OS Resource Management  
 
 ✅ Learning Outcomes:
 Understanding of deadlock and resource allocation in operating systems.
