@@ -26,5 +26,4 @@ Concepts Used: Graph Theory, Deadlock Detection, OS Resource Management
 Understanding of deadlock and resource allocation in operating systems.
 
 Ability to apply graph algorithms (e.g., cycle detection) in real-world scenarios.
-
 Experience in system simulation and UI development for technical tools.
