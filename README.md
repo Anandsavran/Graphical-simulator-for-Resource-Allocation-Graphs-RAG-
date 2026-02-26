@@ -17,7 +17,7 @@ The core objective of the project is to visualize the dynamic behavior of proces
 
 🧱 Tools & Technologies:
 Programming Language: Python / Java / C++
-
+ 
 Libraries (Python): NetworkX, Matplotlib, Tkinter or PyQt for GUI
 
 Concepts Used: Graph Theory, Deadlock Detection, OS Resource Management  
