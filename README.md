@@ -15,7 +15,7 @@ The core objective of the project is to visualize the dynamic behavior of proces
  
 🧠 Safe/Unsafe State Analysis: Differentiates between safe and unsafe states based on the current allocation.
 
-🧱 Tools & Technologies:
+🧱 Tools & Technologies: 
 Programming Language: Python / Java / C++
  
 Libraries (Python): NetworkX, Matplotlib, Tkinter or PyQt for GUI
