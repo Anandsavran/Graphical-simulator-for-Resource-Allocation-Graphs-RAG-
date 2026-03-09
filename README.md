@@ -8,7 +8,7 @@ The core objective of the project is to visualize the dynamic behavior of proces
 🔄 Dynamic Graph Construction: Allows users to create and modify processes and resource nodes dynamically.
  
 🔗 Request & Allocation Edges: Simulates real-time request and allocation scenarios. 
-
+ 
 ❌ Deadlock Detection: Implements cycle detection in the RAG to identify deadlocks.
 
 📊 Visualization: Provides a clear, graphical view of the system state (using tools like NetworkX + Matplotlib in Python, or Java GUI).
