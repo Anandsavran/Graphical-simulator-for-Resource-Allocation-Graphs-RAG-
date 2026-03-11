@@ -3,7 +3,7 @@
 This project implements a Resource Allocation Graph (RAG) to simulate and analyze how an operating system handles resource allocation among processes. RAG is a graphical representation used to detect potential deadlocks in a system where multiple processes compete for limited resources.
  
 The core objective of the project is to visualize the dynamic behavior of process-resource interactions and use graph-based algorithms to detect whether a deadlock situation may occur or is already present. 
-         
+          
 🎯 Key Features:    
 🔄 Dynamic Graph Construction: Allows users to create and modify processes and resource nodes dynamically.
  
